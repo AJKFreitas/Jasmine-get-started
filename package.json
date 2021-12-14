@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jasmine-standalone": "^1.3.1"
+  }
+}
